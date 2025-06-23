@@ -333,8 +333,18 @@ footer .row2{
     .navli{
         display: flex;
         padding: 0px 03px;
+        font-size: 0.6rem;
 
     }
+
+
+
+.navli:hover{
+    color: white;
+    font-weight: 600;
+    font-size: 0.6rem;
+    cursor: pointer;
+}
 
 
     .header-content {
@@ -379,6 +389,7 @@ footer .row2{
 
     form button {
         width: 120px;
+        height: 40px;
     }
     form {
         padding: 0 0 ;
