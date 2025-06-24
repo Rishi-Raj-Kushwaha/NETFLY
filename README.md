@@ -6,6 +6,8 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ![image](https://github.com/Rishi-Raj-Kushwaha/NETFLY/blob/main/img/Home_Page.png)
 
+![image](https://github.com/Rishi-Raj-Kushwaha/NETFLY/blob/main/img/Mobile.jpg)
+
 ## Features
 
 - Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
