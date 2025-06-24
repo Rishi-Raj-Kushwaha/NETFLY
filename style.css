@@ -391,6 +391,7 @@ input[type="radio"]{
     form button {
         width: 120px;
         height: 40px;
+        padding: 0 0;
     }
     form {
         padding: 0 0 ;
