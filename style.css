@@ -10,7 +10,7 @@ body{
 }
 
 .header{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(./img/header-image.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(./img/header-image.png);
     padding: 10px 10px;
     height: 100vh;
     position: relative;
@@ -234,8 +234,9 @@ input[type="radio"]{
     margin-bottom: 30px;
 }
 
-footer .row2{
+.row2{
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     width: 100%;
     align-items: center;
@@ -440,9 +441,10 @@ footer .row2{
     .footer .col{
         margin-bottom: 20px;
     }
-    .footer row2 {
+    .row2 {
     color: white;
-    align-items: center;
+    flex-direction: column;
+    align-items: baseline;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     width: 100%;
     flex-wrap: wrap;
