@@ -4,9 +4,16 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
+
+<h3>🖥️ Desktop View</h3>
 ![image](https://github.com/Rishi-Raj-Kushwaha/NETFLY/blob/main/img/Home_Page.png)
 
-![image](https://github.com/Rishi-Raj-Kushwaha/NETFLY/blob/main/img/Mobile.jpg)
+
+
+
+<h3>📱 Mobile View</h3>
+<img src="https://github.com/Rishi-Raj-Kushwaha/NETFLY/blob/main/img/Mobile.jpg" width="300" alt="Mobile View">
+
 
 ## Features
 
